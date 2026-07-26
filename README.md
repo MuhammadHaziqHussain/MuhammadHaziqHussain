@@ -1,22 +1,104 @@
-# 💫 About Me:
-# 💫 About Me:
-Hi 👋 I'm Muhammad Haziq Hussain<br><br>🚀 About Me: •📍 Location: Lahore, Pakistan •🎓 Education: ICS Part 1 Student at Punjab Group of Colleges •💻 Focus: Learning Data Science with Python and building real-world projects<br><br>🎯 Career Goals: •🧠 Become a Skilled Data Scientist •🌍 Land a Remote Tech Job •🎓 Study at NUST (National University of Sciences and Technology) •🚀 Build impactful AI & Data Science projects<br><br>🛠 Skills & Tools: •💻 Programming Languages: •🐍 Python:<br><br>🧰 Development Tools: •🔧 Git •🖥 VS Code •📊 Data Science Libraries •🔢 NumPy •🐼 Pandas •📈 Matplotlib •🤖 Scikit-learn<br><br>📜 Certifications: •🏆 Meta Front-End Development Certificate – Coursera •🐍 Python Course – CodeWithHarry •🐍 Python Course – freeCodeCamp.org •📊 Data Science with Python – freeCodeCamp.org<br><br>📫 Contact: •📧 Email: haziqhussain073@gmail.com •🔗 LinkedIn: (To be added) •🌐 Portfolio Website: (To be added)<br><br>⭐ I am always learning and building new projects. Feel free to explore my repositories and connect with me!
+# 👋 Hi, I'm Muhammad Haziq Hussain
 
+### Aspiring AI Engineer | Python Developer | Learning in Public
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/haziq__hussain) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadhaziqhussain) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:haziqhussain073@gmail.com) 
+Welcome to my GitHub!
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MuhammadHaziqHussain&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MuhammadHaziqHussain&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHaziqHussain&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I'm an 18-year-old student from Pakistan with a passion for Artificial Intelligence and software development. I have a strong foundation in **Python** and I'm currently following a structured roadmap to learn **AI Engineering**.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MuhammadHaziqHussain&theme=highcontrast&no-frame=false&no-bg=true&margin-w=4)
+My goal is to build intelligent applications that solve real-world problems while continuously improving my programming and engineering skills.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MuhammadHaziqHussain&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Currently Learning
+
+* 🤖 Artificial Intelligence
+* 📊 Machine Learning
+* 🧠 Deep Learning
+* 👁️ Computer Vision
+* 💬 Natural Language Processing (NLP)
+* 🧩 Large Language Models (LLMs)
+* 🔍 Retrieval-Augmented Generation (RAG)
+* 🤖 AI Agents
+* ⚡ FastAPI
+* 🐳 Docker
+* ☁️ MLOps & AI Deployment
+
+---
+
+## 🐍 Current Skills
+
+* Python
+* Object-Oriented Programming (OOP)
+* File Handling
+* Exception Handling
+* Git & GitHub (Learning)
+
+---
+
+## 🎯 2026 Goals
+
+* ✅ Master AI Engineering fundamentals
+* ✅ Build 50+ AI projects
+* ✅ Create a professional AI portfolio
+* ✅ Contribute to open-source projects
+* ✅ Learn modern AI frameworks and tools
+* ✅ Document my learning journey publicly
+
+---
+
+## 📈 Current Focus
+
+I believe the best way to learn is by building.
+
+That's why every concept I study will eventually become a real project that I'll share here on GitHub.
+
+My repositories will reflect my progress as I move from Python fundamentals to production-ready AI applications.
+
+---
+
+## 🛠️ Tech Stack
+
+**Programming Language**
+
+* Python
+
+**Currently Exploring**
+
+* NumPy
+* Pandas
+* Scikit-learn
+* PyTorch
+* Hugging Face
+* FastAPI
+* Docker
+* Git
+
+---
+
+## 📚 Learning Philosophy
+
+> "Don't just watch tutorials—build something."
+
+Every project I create is another step towards becoming a better engineer.
+
+---
+
+## 🌱 Outside of Coding
+
+When I'm not studying, I enjoy exploring new technologies, reading about AI, and planning projects that help me apply what I'm learning.
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: *(Add your LinkedIn URL here)*
+* 📧 Email: *(Add your email here)*
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my projects or want to follow my AI journey, feel free to connect or leave a ⭐ on any repository you find interesting.
+
+**"Learning one project at a time."** 🚀
